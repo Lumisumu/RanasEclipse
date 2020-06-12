@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: Retracted
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/Root
+    localPosition: {x: -0.27895164, y: -2.7293684, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.71185577, w: 0.7023257}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Root/Back1
+    localPosition: {x: 0.25920126, y: 0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.004099817, w: 0.99999166}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Root/Back1/Back2
+    localPosition: {x: 0.16111916, y: 5.741896e-11, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.0060702204, w: 0.9999816}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Root/Back1/Back2/Back3
+    localPosition: {x: 0.22945362, y: -7.01732e-11, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.01872752, w: 0.99982464}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Root/Back1/Back2/Back3/Neck1
+    localPosition: {x: 0.10614894, y: 7.4578566e-11, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.009404909, w: 0.99995583}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Root/Back1/Back2/Back3/Neck1/Jaw_L
+    localPosition: {x: 0.2661676, y: -0.15260942, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.20399064, w: 0.97897285}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Root/Back1/Back2/Back3/Neck1/Jaw_R
+    localPosition: {x: 0.24180304, y: 0.1355206, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.14182726, w: 0.98989147}
+    localScale: {x: 1.0000011, y: 1.0000011, z: 1}

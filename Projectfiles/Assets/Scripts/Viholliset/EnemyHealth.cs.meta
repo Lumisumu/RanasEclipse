@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a3fad8a6b52613b4092bcbca1c1ae301
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthOrb: {fileID: 1781305023841762, guid: 7ca46f40f077ee147bb1bc56d82afa8b,
+      type: 2}
+  - powerUp: {fileID: 1421370208149470, guid: abb6e8fdeb2d62b4684536e898124c3f, type: 2}
+  - enemyDied: {fileID: 8300000, guid: fd27c4e7a4c4691479b967acca7d072e, type: 3}
+  - bossDied: {fileID: 8300000, guid: 9b28ce1b62df58745a1370eae41507ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - Floor
+  - Projectile
+  - spawnerA
+  - shootingPointA
+  - shootingPointB
+  - shootingPointC
+  - spawnerB
+  - spawnerC
+  - vasenStop
+  - oikeaStop
+  - Este
+  - valiPiste
+  - Pickup
+  - caveMusicTrigger
+  - bossMusicTrigger
+  - overworldMusicTrigger
+  - SpitStart
+  - rockfallSoundTrigger
+  - sandfallSoundTrigger
+  - PowerUp
+  - Door
+  - SmallEnemyProjectile
+  - BigEnemyProjectile
+  - Hazard
+  - HealthBarUI
+  - Key
+  - PickUp
+  - BossAggro
+  - KBTest
+  - BossInstaDeath
+  - MoveLeft
+  - MoveRight
+  - SpitPointA
+  - SpitPointB
+  - SpitPointC
+  - BuddySpitterA
+  - BuddySpitterB
+  - BuddySpitterC
+  - DmgTrigger
+  - DmgTrig
+  - shot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Player
+  - Through
+  - Enemy
+  - Bullet
+  - DmgTrigger
+  - Stopper
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG_4
+    uniqueID: 43501147
+    locked: 0
+  - name: BG_2
+    uniqueID: 4217685449
+    locked: 0
+  - name: BG_1
+    uniqueID: 1945563955
+    locked: 0
+  - name: Player
+    uniqueID: 477571305
+    locked: 0
+  - name: FG_1
+    uniqueID: 573277227
+    locked: 0
+  - name: FG_2
+    uniqueID: 36072529
+    locked: 0

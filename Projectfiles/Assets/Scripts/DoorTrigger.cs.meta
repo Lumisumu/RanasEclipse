@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af0e603d506e71040aaa9e23e9f2581a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thePlayer: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - doorSound: {fileID: 8300000, guid: 3ed29bed292a9d040bdd9cc0e462827f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
