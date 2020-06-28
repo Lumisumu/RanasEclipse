@@ -1,7 +1,13 @@
 # RanasEclipse
-Finished gameproject from summer 2018.
-Made in Unity 2018.1.0f2
+
+Team game project, 2018.
+
+Status: finished 
+
+Unity version: 2018.1.0f2
+
 Itch.io: https://reactorraptor.itch.io/ranas-eclipse
+
 
 Removed files:
 - /Scifi-Metroidvania (unused)
